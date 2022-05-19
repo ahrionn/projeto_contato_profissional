@@ -1,0 +1,54 @@
+body{
+	background: black;
+}
+
+hr{
+	width: 70%;
+}
+
+#top{
+	margin-top: 50px;
+}
+
+h1{
+	color: whitesmoke;
+	font-family: constantia;
+	font-size: 100px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+form{
+	text-align: center;
+}
+
+legend{
+	font-family: monospace;
+	font-size: 18px;
+	color: whitesmoke;
+}
+
+fieldset{
+	margin-right: 670px;
+	margin-left: 670px;
+}
+
+#ENDERECO{
+	margin-right: 100px;
+	margin-left: 100px;
+}
+
+label{
+	font-family: monospace;
+	font-size: 20px;
+	color: whitesmoke;
+}
+
+span{
+	font-family: monospace;
+	font-size: 21px;
+	font-style: italic;
+	text-decoration: underline darkcyan;
+	color: whitesmoke;
+}
